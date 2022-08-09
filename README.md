@@ -1,4 +1,4 @@
-# Hi there, I'm Aayush - aka [Cyberbandit][http://poudel-aayush.com.np] 👋 
+# Hi there, I'm Aayush - aka [Cyberbandit](http://poudel-aayush.com.np) 👋 
 
 
 [![Website](https://img.shields.io/website?label=poudel-aayush.com.np&style=for-the-badge&url=http%3A%2F%2Fpoudel-aayush.com.np)](http://poudel-aayush.com.np)
