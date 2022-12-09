@@ -18,7 +18,6 @@
 
 [![website](./img/globe-light.svg)](http://poudel-aayush.com.np#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://poudelaayush.com.np#gh-dark-mode-only)
-
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ayushp7331#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ayushp7331#gh-dark-mode-only)
