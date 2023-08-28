@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=poudel-aayush.com.np&style=for-the-badge&url=http%3A%2F%2Fpoudel-aayush.com.np)](http://poudel-aayush.com.np)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ayushp7331?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ayushp7331?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ayushp7331)
 
 <a href="https://www.buymeacoffee.com/Cyberbandit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
